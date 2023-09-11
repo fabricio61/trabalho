@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 60px;
+    color:white;
+    text-align: center;
+}
+img{
+    width:30%;
+    height:10%;
+}
+p{
+    font-size: 30px;
+    color:white;
+    text-align:center
+}
+li{
+    color:white;
+}
+h2{
+    color:white;
+}
